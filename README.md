@@ -13,3 +13,4 @@ To help process this data, I will create machine learning models capable of clas
 
 ## Model Results
 * KNN (Train/Test): 0.848/0.830
+* Random Forest (Train/Test): 0.876/0.883
