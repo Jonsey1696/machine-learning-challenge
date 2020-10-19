@@ -10,3 +10,6 @@ To help process this data, I will create machine learning models capable of clas
 * joblib
 * pandas
 * tensorflow
+
+## Model Results
+* KNN (Train/Test): 0.848/0.830
